@@ -9,23 +9,23 @@
 	],
 "creatorBuild": "25704",
 "files": {
-	"\/css\/semantic.css": {
+	"\/css\/semantic-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/semantic-min.css",
+		"oAP": "\/css\/semantic-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/styles.css": {
+	"\/css\/styles-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/styles-min.css",
+		"oAP": "\/css\/styles-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -102,6 +102,26 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/SASS\/_semantic.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/SASS\/_semantic-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/SASS\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/SASS\/styles-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
@@ -2039,7 +2059,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
